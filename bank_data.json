@@ -1,0 +1,62 @@
+{
+    "131": [
+        {
+            "date": "2024-09-04 10:11:06",
+            "account": 131,
+            "type": "ins\u00e4ttning",
+            "amount": 100
+        },
+        {
+            "date": "2024-09-04 10:11:17",
+            "account": 131,
+            "type": "uttag",
+            "amount": -50
+        },
+        {
+            "date": "2024-09-04 10:36:27",
+            "account": 131,
+            "type": "ins\u00e4ttning",
+            "amount": 414
+        }
+    ],
+    "4": [
+        {
+            "date": "2024-09-04 10:35:33",
+            "account": 4,
+            "type": "ins\u00e4ttning",
+            "amount": 100000000
+        }
+    ],
+    "1": [
+        {
+            "date": "2024-09-27 10:51:34",
+            "account": "1",
+            "type": "ins\u00e4ttning",
+            "amount": 100
+        },
+        {
+            "date": "2024-09-27 11:14:03",
+            "account": "1",
+            "type": "uttag",
+            "amount": -24
+        },
+        {
+            "date": "2024-09-27 11:17:30",
+            "account": "1",
+            "type": "ins\u00e4ttning",
+            "amount": 10
+        },
+        {
+            "date": "2024-09-29 20:50:55",
+            "account": "1",
+            "type": "ins\u00e4ttning",
+            "amount": 134
+        },
+        {
+            "date": "2024-09-29 20:50:59",
+            "account": "1",
+            "type": "uttag",
+            "amount": -24
+        }
+    ]
+}
